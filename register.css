@@ -1,0 +1,24 @@
+body {
+    padding: 50px;
+    text-align: center;
+    background: url('image/background.jpeg') center/cover no-repeat; 
+    color: whitesmoke /* Set the text color to white */
+  }
+  
+  .container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 50px;
+    background-color: black; 
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    color: white; /* Set the container text color to a dark shade, e.g., dark gray */
+  }
+  
+  .form-group {
+    margin-bottom: 30px;
+  }
+  
+  .btn {
+    background-color: #111; /* Set the button's background color to a darker shade, e.g., almost black */
+    color: white; /* Set the text color of the button to white */
+  }
